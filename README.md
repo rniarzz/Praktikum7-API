@@ -3,7 +3,7 @@
 |💻 |DATA MAHASISWA |
 | -------- | --- |
 | **Nama** | Rini Ariza|
-| **NIM** | 312010337 |
+| **NIM** | 312210337 |
 | **Kelas** | TI.22.A3 |
 | **Mata Kuliah** | Pemrograman Web 2 |
 
